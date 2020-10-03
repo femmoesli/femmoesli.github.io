@@ -1,0 +1,6 @@
+title: Femmösli
+url: "https://femmoesli.ch"
+theme: jekyll-theme-minimal
+
+exclude:
+- .idea/
