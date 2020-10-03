@@ -3,6 +3,8 @@ title: Femmösli
 layout: default 
 ---
 
+![Krankeschweschtere, Fasnacht 2014](assets/krankeschweschtere.jpeg)
+
 Mir sinn e Dambuure und Pfyffergrubbe mit aktuell 8 Pfyffer und 3 Dambuure. 
 Am Mändig zoobe iebe mir im Räbhuus vo 8 bis 10. An dr Fasnacht laufe mir zwar kai Cortège 
 hänn aber trotzdäm e Sujet.

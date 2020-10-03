@@ -1,6 +1,7 @@
 title: Femmösli
 url: "https://femmoesli.ch"
 theme: jekyll-theme-minimal
+description: Fasnachtsclique
 
 exclude:
 - .idea/
