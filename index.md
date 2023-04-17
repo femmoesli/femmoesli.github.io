@@ -5,14 +5,13 @@ layout: default
 
 ![Krankeschweschtere, Fasnacht 2014](assets/krankeschweschtere.jpeg)
 
-Mir sinn e Dambuure und Pfyffergrubbe mit aktuell 8 Pfyffer und 3 Dambuure. 
-Am Mändig zoobe iebe mir im Räbhuus vo 8 bis 10. An dr Fasnacht laufe mir zwar kai Cortège 
-hänn aber trotzdäm e Sujet.
+Mir sinn e Dambuure und Pfyffergrubbe mit aktuell 5 Pfyffer und 3 Dambuure. 
+Am Mändig zoobe iebe mir am Wettsteiplatz vo 8 bis 10. An dr Fasnacht laufe mir zwar kai Cortège 
+hänn aber trotzdäm meischtens e Sujet.
 
 Mir sueche no Pfyffer, Drummler und Vordrääbler. Wenn de interessiert bisch, kasch di bi dr 
 Sylvia (<a title="mailto:sylviakullmann@me.com?subject=Femmösli" 
-href="mailto:sylviakullmann@me.com?subject=Femm%C3%B6sli">sylviakullmann@me.com</a>) mälde 
-oder eifach emol verby koo ins Räbhuus.
+href="mailto:sylviakullmann@me.com?subject=Femm%C3%B6sli">sylviakullmann@me.com</a>) mälde.
 
 
 ## Repertoire
