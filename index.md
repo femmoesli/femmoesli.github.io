@@ -5,7 +5,7 @@ layout: default
 
 ![Krankeschweschtere, Fasnacht 2014](assets/krankeschweschtere.jpeg)
 
-Mir sinn e Dambuure und Pfyffergrubbe mit aktuell 5 Pfyffer und 3 Dambuure. 
+Mir sinn e Dambuure und Pfyffergrubbe mit aktuell 6 Pfyffer und 3 Dambuure. 
 Am Mändig zoobe iebe mir am Wettsteiplatz vo 8 bis 10. An dr Fasnacht laufe mir zwar kai Cortège 
 hänn aber trotzdäm meischtens e Sujet.
 
@@ -48,6 +48,7 @@ href="mailto:sylviakullmann@me.com?subject=Femm%C3%B6sli">sylviakullmann@me.com<
 - Duudelsagg
 - Pierrissimo
 - Basler Marsch
+- Fischmärt
 
 ### Drummel Märsch
 - Mätzli
